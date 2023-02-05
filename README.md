@@ -8,4 +8,4 @@
 
 
 
-<img src="/image/main.png" width="180" margin-right="500">
+<img src="/image/main.png" width="180">
