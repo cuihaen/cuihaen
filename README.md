@@ -1,4 +1,4 @@
-### 안녕하세요. 최하은입니다 🙌🏻 
+### Hi! I'm Haeun Choi 🙌🏻 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cuihaen/github-readme-stats) -->
 
