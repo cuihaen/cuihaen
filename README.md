@@ -1,4 +1,4 @@
-<img src="/image/main.png" width="150">
+<img src="/image/main.png" width="180">
 
 ### Hi! 👋 
 
