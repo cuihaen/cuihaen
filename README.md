@@ -4,6 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haeun%20Choi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40)
 
 ### 안녕하세요. 최하은입니다 🙌🏻 
+  
+  
+  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cuihaen/github-readme-stats) -->
 
