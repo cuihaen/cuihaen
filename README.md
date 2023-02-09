@@ -6,6 +6,9 @@
 ### 안녕하세요. 최하은입니다 🙌🏻 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cuihaen/github-readme-stats) -->
+  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
 
 <img src="/image/main.png" width="180">
   
