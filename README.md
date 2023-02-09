@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=FFE162&height=250&section=header&text=Haeun%20Choi&fontSize=90&fontColor=FFFFFF) -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Haeun%20Choi&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Haeun%20Choi&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
 
 #### 안녕하세요. 최하은입니다 🙌🏻 
 
