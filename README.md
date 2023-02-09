@@ -7,6 +7,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cuihaen/github-readme-stats) -->
   
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-E34F26?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
+<img src="https://img.shields.io/badge/JQUERY-E34F26?style=flat-square&logo=JQUERY&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
