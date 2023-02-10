@@ -26,7 +26,7 @@
 <br>  
   
 #### 📚 개발블로그 📚
-<a href="https://cuihaen.github.io/">
+<a href="https://cuihaen.github.io/" target="blank">
   <img src="/image/blog.jpg" alt="Haeun's 개발블로그" width="450px">
 </a>
 <br>
