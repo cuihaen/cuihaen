@@ -8,7 +8,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cuihaen/github-readme-stats) -->
 <br>
 <br>
-<br>
 
 #### 💻 SKILL
   <div>
@@ -27,10 +26,11 @@
 <br>  
   
 #### 📚 개발블로그 📚
+<img src="/image/blog.jpg" alt="Haeun's 개발블로그" width="350px"><br>
+새롭게 학습하며 알게된 지식들을 내용들을 기록합니다.
+<br>
 
-새롭게 학습하며 알게된 지식들을 내용들을 기록합니다. 
-<img src="/image/blog.jpg" alt="Haeun's 개발블로그" width="350px">
-
+---
 <img src="/image/main.png" width="180">
   
 </div>
