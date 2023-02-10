@@ -26,11 +26,15 @@
 <br>  
   
 #### 📚 개발블로그 📚
-<img src="/image/blog.jpg" alt="Haeun's 개발블로그" width="350px"><br>
+<a href="https://cuihaen.github.io/">
+  <img src="/image/blog.jpg" alt="Haeun's 개발블로그" width="450px">
+</a>
+<br>
 새롭게 학습하며 알게된 지식들을 내용들을 기록합니다.
+👉🏻 https://cuihaen.github.io/
 <br>
 
----
-<img src="/image/main.png" width="180">
+<!-- ---
+<img src="/image/main.png" width="180"> -->
   
 </div>
