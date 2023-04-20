@@ -35,7 +35,7 @@
 
 
 <!-- ---
-<img src="/image/main.png" width="180"> -->
+<img src="/image/blog2.jpg" width="180"> -->
   
 </div>
 
